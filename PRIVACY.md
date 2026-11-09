@@ -1,6 +1,9 @@
-# Engage AI privacy policy — publication draft
+# Engage AI Privacy Policy
 
-Prepared 2026-11-06 for the closed-source Chrome extension, version 1.2.1. This document is not hosted publicly. Before publication, the eventual company publisher must supply its legal identity and a working privacy contact and approve the provider-related disclosures below.
+**Effective Date:** November 9, 2026  
+**Last Updated:** November 9, 2026  
+
+Engage AI is an AI reply generator and social media writing assistant provided by Agora Devx. This Privacy Policy describes how Engage AI processes, stores, and protects your information.
 
 ## What Engage AI does
 
@@ -21,7 +24,7 @@ Posts or drafts can contain personal information or communications. Only request
 
 AI requests go directly from your browser to the AI API you configure. Requests include the relevant content above and authentication required by that provider. Image URLs may be sent to the model API; for Gemini, the extension downloads supported Reddit images and sends their bytes. Reddit image hosts receive the image request, not your AI key. Fetching a Substack comments page's associated article may use your existing site session.
 
-The uploadable store build has no bundled developer AI key, account backend, advertising SDK, analytics service or publisher collection endpoint. It does not include AI credits. Provider access, charges, processing, retention and any use of data to improve models depend on your account, settings and provider terms. Check those terms before choosing a provider. Custom API operators can receive the same request data as named providers.
+The extension has no bundled developer AI key, account backend, advertising SDK, analytics service or publisher collection endpoint. It does not include AI credits. Provider access, charges, processing, retention and any use of data to improve models depend on your account, settings and provider terms. Check those terms before choosing a provider. Custom API operators can receive the same request data as named providers.
 
 ## Storage, retention and deletion
 
@@ -33,8 +36,11 @@ Storage saves local settings, session results and diagnostics. Tabs connects the
 
 ## Limited use
 
-The extension uses data to provide its stated post-understanding and reply-drafting features. The publisher does not sell user data, use it for advertising, or use it to determine creditworthiness or lending eligibility. Data transfer to your chosen AI API serves these user-requested features. No unrelated publisher data processing is implemented in this build.
+The extension uses data solely to provide its stated post-understanding and reply-drafting features. The publisher does not sell user data, use it for advertising, or use it to determine creditworthiness or lending eligibility. Data transfer to your chosen AI API serves these user-requested features. No unrelated publisher data processing is implemented.
 
-## Publisher and contact before release
+## Contact Us
 
-The eventual company account is still being prepared. The company publisher must replace this section with its verified legal identity and support/privacy contact, host the approved policy at a public HTTPS URL, and add that URL to the Chrome Web Store Privacy form. A private GitHub link is not a usable public privacy policy.
+If you have questions, feedback, or data privacy inquiries regarding Engage AI, please contact:
+- **Publisher:** Agora Devx
+- **Email:** agoradevx@gmail.com
+- **Repository:** https://github.com/agoradevx/engage-ai
