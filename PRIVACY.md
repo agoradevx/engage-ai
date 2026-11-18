@@ -1,13 +1,13 @@
 # Engage AI Privacy Policy
 
 **Effective Date:** November 9, 2026  
-**Last Updated:** November 9, 2026  
+**Last Updated:** November 18, 2026  
 
 Engage AI is an AI reply generator and social media writing assistant provided by Agora Devx. This Privacy Policy describes how Engage AI processes, stores, and protects your information.
 
 ## What Engage AI does
 
-Engage AI helps you understand an individual social post, generate English reply drafts with Chinese translations, and polish your own Chinese or English draft. You decide whether to copy, insert, edit or publish a reply. The extension does not automatically comment, like, follow or message.
+Engage AI helps you understand an individual social post, generate English reply drafts with translations in your selected explanation language (omitting duplicate translations when English is selected), and polish or translate your own draft written in English or any other language. You decide whether to copy, insert, edit or publish a reply. The extension does not automatically comment, like, follow or message.
 
 ## Data processed
 
@@ -15,6 +15,7 @@ Engage AI helps you understand an individual social post, generate English reply
 - Up to four loaded Reddit image attachments when using a compatible vision API.
 - Your own draft when you request polishing.
 - Your chosen AI API URL, model and API key.
+- Your selected explanation language and optional personal knowledge notes, product names, and reference links. Knowledge is stored locally and sent to your chosen AI provider only when enabled for generating suggestions. Reference URLs are not automatically fetched. Polishing and connection tests do not send knowledge notes.
 - Tab IDs and URLs needed to connect the side panel to the current post and reconnect after navigation. The extension does not maintain a browsing-history database.
 - Local diagnostic metadata: provider/model identifiers, request times, error categories and redacted provider explanations. Exports omit API keys and post/reply text; review exports before sharing them.
 
